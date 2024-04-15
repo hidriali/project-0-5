@@ -32,7 +32,7 @@ while True:
    choice_num5=("5. Exit")
 
 
-#allow the user to enter a number from 1 to 4 of the menue. 
+#allow the user to enter a number from 1 to 5 of the menue. 
    user_input=input("Please Enter the following number below from the following menu:" + choice_num1 + "\n" + choice_num2 + "\n" + choice_num3 + "\n" + choice_num4 + "\n" + choice_num5 + "\n")
   
   # start your if statement to direct the user to the correct path after the user chooses a number from the menu.
